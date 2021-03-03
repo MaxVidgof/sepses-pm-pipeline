@@ -1,0 +1,9 @@
+{
+	"templates": {
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_4047a895":"GLP_Attack_Response",
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_9fcb20a0":"Suricata_HTTP_terminated",
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_4305dbfd":"Suricata_HTTP",
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_0100cca4":"ET_Access",
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_7668c4a7":"ET_Pass"
+	}
+}

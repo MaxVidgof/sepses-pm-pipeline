@@ -1,0 +1,17 @@
+{
+	"templates": {
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_23e33b37":"No_hostname",
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_fd3d2742":"Unknown_email_rich",
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_7a04c1b6":"Too_many_rec_headers",
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_e3e0d494":"Unknown_email",
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_9fb14ac6":"Unknown_email_path",
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_06785ab9":"Unknown_IP",
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_b55be894":"Frozen",
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_3c82302c":"End_queue_run",
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_86cf1be4":"Start_queue_run",
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_852821d3":"Message_frozen",
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_b255e569":"Unknown_email_poor",
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_4695c7f2":"Completed",
+		"https://w3id.org/sepses/id/logex/LogEventTemplate_b27c7762":"VRFY_Failed"
+	}
+}
